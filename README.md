@@ -95,7 +95,7 @@ Certainly, here's an overview of the project based on the information you've pro
 - Confirm that the webpage functions as intended on diverse devices and screen sizes.
 - Validate your HTML and CSS to guarantee code quality and adherence to web standards.
 
-<h3>This is an individual project that I completed as a solo web developer within a timeframe of 2 days.</h3>
+
 
 <h2 align="center">Contribution Guidelines</h2>
 
