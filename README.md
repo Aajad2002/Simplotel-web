@@ -5,7 +5,7 @@
 The project comprises a webpage titled 'Simplotel,' featuring a sleek and responsive design. The header includes a navigation menu with links to 'Home,' 'Order,' 'Food,' 'Restaurant,' 'Testimonials,' and 'Contact Us,' with hover effects. The webpage showcases an eye-catching background image with overlaid text, adapting gracefully to various screen sizes. The 'Order Now' section presents enticing cards for 'Burger,' 'Pizza,' and 'Pasta,' each with hover animations. An 'Order' button stands out at the section's end. In sum, this project offers a visually appealing and user-friendly web experience.". [Front-End Developer Task.pdf](https://github.com/Aajad2002/Simplotel-web/blob/main/Front-End%20Developer%20Task.pdf)
 
 
-### Frontend Deployed URL 👉 [Click here]([https://65301952526ea83b6c1fabf7--relaxed-truffle-3545fe.netlify.app/]))
+### Frontend Deployed URL 👉 [Click here]([https://65301952526ea83b6c1fabf7--relaxed-truffle-3545fe.netlify.app/])
 </h3>
 
 
